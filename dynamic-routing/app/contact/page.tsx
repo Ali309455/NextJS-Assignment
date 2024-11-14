@@ -48,7 +48,7 @@ const contact = () => {
               </div>
               <div className="p-2 w-full">
                 <button className="flex mx-auto text-white bg-gray-800 border-0 py-2 px-8 focus:outline-none hover:bg-indigo-600 rounded text-lg">
-                  Button
+                  Submit
                 </button>
               </div>
             </div>
